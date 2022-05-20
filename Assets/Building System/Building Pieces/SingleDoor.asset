@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90ae0e575f3fbbd4a95d2fba4c3df133, type: 3}
+  m_Name: SingleDoor
+  m_EditorClassIdentifier: 
+  pieceType: 3
+  buildingPieceName: Single Door
+  previewPrefab: {fileID: 2902169736293187040, guid: 7c6f61db2eb530b41bb713062d1cb5c5, type: 3}
+  buildingPrefab: {fileID: 8464532505909238564, guid: f84d8165bcda2394c86635a62d9be05f, type: 3}
